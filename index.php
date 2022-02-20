@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     <title>Latihan webdesign</title>
     <link rel="stylesheet" href="style.css" />
@@ -25,6 +26,7 @@
           <input class="srch" type="search" name="" placeholder="search">
           <a href="#"> <button class="btn">search</button></a>
         </div>
+		<div></div>
 
       </div>
         <div class="content">
