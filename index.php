@@ -26,7 +26,6 @@
           <input class="srch" type="search" name="" placeholder="search">
           <a href="#"> <button class="btn">search</button></a>
         </div>
-		<div></div>
 
       </div>
         <div class="content">
